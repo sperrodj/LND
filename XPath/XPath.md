@@ -7,32 +7,29 @@ _Soluciones de las actividades._
 Dado el siguiente documento XML, escriba las expresiones XPath que devuelvan la respuesta deseada.
 
 ```
-    <?xml version="1.0" encoding="UTF-8"?>
-    <ies>
-        <nombre>IES Puerto de la Cruz – Telesforo Bravo</nombre>
-        <web>https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/</web>
-        <ciclos>
-            <ciclo id="ASIR">
-                <nombre>Administración de Sistemas Informáticos en Red</nombre>
-                <grado>Superior</grado>
-                <decretoTitulo año="2009" />
-            </ciclo>
-            <ciclo id="DAM">
-                <nombre>Desarrollo de Aplicaciones Multiplataforma</nombre>
-                <grado>Superior</grado>
-                <decretoTitulo año="2010" />
-            </ciclo>
-            <ciclo id="SMR">
-                <nombre>Sistemas Microinformáticos y Redes</nombre>
-                <grado>Medio</grado>
-                <decretoTitulo año="2008" />
-            </ciclo>
-        </ciclos>
-    </ies>
+<?xml version="1.0" encoding="UTF-8"?>
+<ies>
+    <nombre>IES Puerto de la Cruz – Telesforo Bravo</nombre>
+    <web>https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/</web>
+    <ciclos>
+        <ciclo id="ASIR">
+            <nombre>Administración de Sistemas Informáticos en Red</nombre>
+            <grado>Superior</grado>
+            <decretoTitulo año="2009" />
+        </ciclo>
+        <ciclo id="DAM">
+            <nombre>Desarrollo de Aplicaciones Multiplataforma</nombre>
+            <grado>Superior</grado>
+            <decretoTitulo año="2010" />
+        </ciclo>
+        <ciclo id="SMR">
+            <nombre>Sistemas Microinformáticos y Redes</nombre>
+            <grado>Medio</grado>
+            <decretoTitulo año="2008" />
+        </ciclo>
+    </ciclos>
+</ies>
   ```
-
-## Comenzando
-
 ### 1. Nombre del instituto
 ### 2. Página web del instituto
 ### 3. Nombre de los Ciclos Formativos
@@ -79,9 +76,6 @@ Dado el siguiente documento XML, escriba las expresiones XPath que devuelvan la 
     </modulos>
 </ies>
   ```
-
-## Comenzando
-
 ### 1. Nombre de los módulos que se imparten en el instituto
 ### 2. Nombre de los módulos del ciclo ASIR
 ### 3. Nombre de los módulos que se imparten en el segundo curso de cualquier ciclo
