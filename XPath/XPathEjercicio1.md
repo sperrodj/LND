@@ -1,6 +1,6 @@
 # XPath
 
-_Soluciones de las actividades._
+_Soluciones de la actividad XML - XPath 1._
 
 ### Ejercicio 1
 
@@ -31,14 +31,32 @@ Dado el siguiente documento XML, escriba las expresiones XPath que devuelvan la 
 </ies>
   ```
 ### 1. Nombre del instituto
+```
+```
 ### 2. Página web del instituto
+```
+```
 ### 3. Nombre de los Ciclos Formativos
+```
+```
 ### 4. Siglas por las que se conocen los Ciclos Formativos
+```
+```
 ### 5. Años en los que se publicaron los decretos de título de los Ciclos Formativos
+```
+```
 ### 6. Ciclos Formativos de Grado Medio (se trata de obtener el elemento <ciclo> completo)
+```
+```
 ### 7. Nombre de los Ciclos Formativos de Grado Superior
+```
+```
 ### 8. Nombre de los Ciclos Formativos anteriores a 2010
+```
+```
 ### 9. Nombre de los Ciclos Formativos de 2008 o 2010
+```
+```
 
 ### Ejercicio 2
 
@@ -77,9 +95,21 @@ Dado el siguiente documento XML, escriba las expresiones XPath que devuelvan la 
 </ies>
   ```
 ### 1. Nombre de los módulos que se imparten en el instituto
+```
+```
 ### 2. Nombre de los módulos del ciclo ASIR
+```
+```
 ### 3. Nombre de los módulos que se imparten en el segundo curso de cualquier ciclo
+```
+```
 ### 4. Nombre de los módulos de menos de 5 horas semanales
+```
+```
 ### 5. Nombre de los módulos que se imparten en el primer curso de ASIR
+```
+```
 ### 6. Horas semanales de los módulos de más de 3 horas semanales
+```
+```
 
