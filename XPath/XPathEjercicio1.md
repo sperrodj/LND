@@ -32,30 +32,39 @@ Dado el siguiente documento XML, escriba las expresiones XPath que devuelvan la 
   ```
 ### 1. Nombre del instituto
 ```
+//ies/nombre
 ```
 ### 2. Página web del instituto
 ```
+//web/text()
 ```
 ### 3. Nombre de los Ciclos Formativos
 ```
+//ciclo/nombre/text()
 ```
 ### 4. Siglas por las que se conocen los Ciclos Formativos
 ```
+//@id
 ```
 ### 5. Años en los que se publicaron los decretos de título de los Ciclos Formativos
 ```
+//@año
 ```
 ### 6. Ciclos Formativos de Grado Medio (se trata de obtener el elemento <ciclo> completo)
 ```
+//ciclo[grado="Medio"]
 ```
 ### 7. Nombre de los Ciclos Formativos de Grado Superior
 ```
+//ciclo[grado="Superior"]/nombre
 ```
 ### 8. Nombre de los Ciclos Formativos anteriores a 2010
 ```
+//nombre[../decretoTitulo/@año<2010]/text()
 ```
 ### 9. Nombre de los Ciclos Formativos de 2008 o 2010
 ```
+//nombre[../decretoTitulo/@año=2008 or ../decretoTitulo/@año=2010]/text()
 ```
 
 ### Ejercicio 2
@@ -96,20 +105,26 @@ Dado el siguiente documento XML, escriba las expresiones XPath que devuelvan la 
   ```
 ### 1. Nombre de los módulos que se imparten en el instituto
 ```
+//modulo/nombre/text()
 ```
 ### 2. Nombre de los módulos del ciclo ASIR
 ```
+//modulo[ciclo="ASIR"]/nombre/text()
 ```
 ### 3. Nombre de los módulos que se imparten en el segundo curso de cualquier ciclo
 ```
+//modulo[curso="2"]/nombre/text()
 ```
 ### 4. Nombre de los módulos de menos de 5 horas semanales
 ```
+//modulo[horasSemanales<5]/nombre/text()
 ```
 ### 5. Nombre de los módulos que se imparten en el primer curso de ASIR
 ```
+//modulo[curso="1" and ciclo="ASIR"]/nombre/text()
 ```
 ### 6. Horas semanales de los módulos de más de 3 horas semanales
 ```
+//modulo[horasSemanales>3]/horasSemanales
 ```
 
