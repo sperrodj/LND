@@ -1,0 +1,21 @@
+.azul1, .azul{
+	background-color:blue;
+	}
+
+.azul2, .azulclaro{
+	background-color:light-blue;
+	}
+
+.azul3{
+	background-color:#e0ffff;
+	}
+
+td{
+	text-align: center;
+	}
+
+h2{
+	color:#f00; 
+	font-weight:bold; 
+	text-align:center;
+	}

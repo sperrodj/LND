@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<precipitaciones>
+	<registro>
+		<lugar>La Laguna</lugar>
+		<fecha>07/09/2007</fecha>
+		<litros-m2>95</litros-m2>
+	</registro>
+	<registro>
+		<lugar>Granadilla</lugar>
+		<fecha>07/09/2007</fecha>
+		<litros-m2>20</litros-m2>
+	</registro>
+	<registro>
+		<lugar>Arafo</lugar>
+		<fecha>07/09/2007</fecha>
+		<litros-m2>15</litros-m2>
+	</registro>
+	<registro>
+		<lugar>Arico</lugar>
+		<fecha>17/10/2007</fecha>
+		<litros-m2>5</litros-m2>
+	</registro>
+	<registro>
+		<lugar>Güímar</lugar>
+		<fecha>18/10/2007</fecha>
+		<litros-m2>25</litros-m2>
+	</registro>
+	<registro>
+		<lugar>Vilaflor</lugar>
+		<fecha>21/12/2007</fecha>
+		<litros-m2>36</litros-m2>
+	</registro>
+	<registro>
+		<lugar>La Orotava</lugar>
+		<fecha>21/12/2007</fecha>
+		<litros-m2>41</litros-m2>
+	</registro>
+</precipitaciones>
