@@ -94,11 +94,15 @@ Dado el siguiente documento XML realiza las siguientes consultas con XQuery:
 ```
 ```
 ### 19.	Mostrar el título y el número de caracteres que tiene cada título, cada uno con su propia etiqueta.
-
+```
+```
 ### 20.	Mostrar todos los años en los que se ha publicado un libro eliminando los repetidos. Etiquétalos con "año".
-
+```
+```
 ### 21.	Mostrar todos los autores eliminando los que se repiten y ordenados por el número de caracteres que tiene cada autor.
-
+```
+```
 ### 22.	Mostrar los títulos en una tabla de HTML.
-
+```
+```
  
