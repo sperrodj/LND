@@ -120,6 +120,3 @@ Dado el siguiente documento XML realiza las siguientes consultas con XQuery:
 ### 22. Muestra los nombres de los agentes cuyas habilidades primarias son de tipo "Daño" y sus habilidades secundarias son de tipo "Curación".
 ```
 ```
-### 23. Muestra los nombres de los agentes que tienen habilidades primarias y secundarias que contienen la misma palabra.
-```
-```
