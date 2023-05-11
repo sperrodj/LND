@@ -17,39 +17,39 @@ Dado el siguiente documento XML realiza las siguientes consultas con XQuery:
   <agentes>
     <agente>
       <nombre>Jett</nombre>
-      <habilidadPrimaria tipo="Daño" duracion="4s">Cuchillo Arrojadizo</habilidadPrimaria>
-      <habilidadSecundaria tipo="Curación" duracion="0s">Vientos Ligeros</habilidadSecundaria>
-      <habilidadUltimate tipo="Daño" duracion="6s">Tormenta de Cuchillos</habilidadUltimate>
+      <habilidadPrimaria tipo="Daño" duracion="4">Cuchillo Arrojadizo</habilidadPrimaria>
+      <habilidadSecundaria tipo="Curación" duracion="0">Vientos Ligeros</habilidadSecundaria>
+      <habilidadUltimate tipo="Daño" duracion="6">Tormenta de Cuchillos</habilidadUltimate>
     </agente>
     <agente>
       <nombre>Brimstone</nombre>
-      <habilidadPrimaria tipo="Daño" duracion="6s">Granada Incendiaria</habilidadPrimaria>
-      <habilidadSecundaria tipo="Curación" duracion="0s">Estímulo de Combate</habilidadSecundaria>
-      <habilidadUltimate tipo="Daño" duracion="4s">Incendiario Orbital</habilidadUltimate>
+      <habilidadPrimaria tipo="Daño" duracion="6">Granada Incendiaria</habilidadPrimaria>
+      <habilidadSecundaria tipo="Curación" duracion="0">Estímulo de Combate</habilidadSecundaria>
+      <habilidadUltimate tipo="Daño" duracion="4">Incendiario Orbital</habilidadUltimate>
     </agente>
     <agente>
       <nombre>Viper</nombre>
-      <habilidadPrimaria tipo="Daño" duracion="8s">Nube Venenosa</habilidadPrimaria>
-      <habilidadSecundaria tipo="Daño" duracion="6s">Pantalla Tóxica</habilidadSecundaria>
-      <habilidadUltimate tipo="Curación" duracion="12s">Recolección Táctica</habilidadUltimate>
+      <habilidadPrimaria tipo="Daño" duracion="8">Nube Venenosa</habilidadPrimaria>
+      <habilidadSecundaria tipo="Daño" duracion="6">Pantalla Tóxica</habilidadSecundaria>
+      <habilidadUltimate tipo="Curación" duracion="12">Recolección Táctica</habilidadUltimate>
     </agente>
     <agente>
       <nombre>Phoenix</nombre>
-      <habilidadPrimaria tipo="Daño" duracion="4s">Bola Curva de Fuego</habilidadPrimaria>
-      <habilidadSecundaria tipo="Curación" duracion="0s">Escudo Curativo</habilidadSecundaria>
-      <habilidadUltimate tipo="Daño" duracion="6s">Explosión Cósmica</habilidadUltimate>
+      <habilidadPrimaria tipo="Daño" duracion="4">Bola Curva de Fuego</habilidadPrimaria>
+      <habilidadSecundaria tipo="Curación" duracion="0">Escudo Curativo</habilidadSecundaria>
+      <habilidadUltimate tipo="Daño" duracion="6">Explosión Cósmica</habilidadUltimate>
     </agente>
     <agente>
       <nombre>Sage</nombre>
-      <habilidadPrimaria tipo="Curación" duracion="0s">Orbe de Curación</habilidadPrimaria>
-      <habilidadSecundaria tipo="Daño" duracion="4s">Muro de Hielo</habilidadSecundaria>
-      <habilidadUltimate tipo="Curación" duracion="5s">Resurrección</habilidadUltimate>
+      <habilidadPrimaria tipo="Curación" duracion="0">Orbe de Curación</habilidadPrimaria>
+      <habilidadSecundaria tipo="Daño" duracion="4">Muro de Hielo</habilidadSecundaria>
+      <habilidadUltimate tipo="Curación" duracion="5">Resurrección</habilidadUltimate>
     </agente>
     <agente>
       <nombre>Cypher</nombre>
-      <habilidadPrimaria tipo="Daño" duracion="4s">Trampa Cibernética</habilidadPrimaria>
-      <habilidadSecundaria tipo="Daño" duracion="7s">Cámara Espía</habilidadSecundaria>
-      <habilidadUltimate tipo="Curación" duracion="0s">Ataque de Neurona</habilidadUltimate>
+      <habilidadPrimaria tipo="Daño" duracion="4">Trampa Cibernética</habilidadPrimaria>
+      <habilidadSecundaria tipo="Daño" duracion="7">Cámara Espía</habilidadSecundaria>
+      <habilidadUltimate tipo="Curación" duracion="0">Ataque de Neurona</habilidadUltimate>
     </agente>
   </agentes>
 </videojuego>
