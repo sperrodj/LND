@@ -121,6 +121,19 @@ let $totalPeliculas := count(//pelicula)
 return $totalPeliculas
 ```
 ### 13. Encuentra la película con la duración más larga y muestra su título, duración y año de lanzamiento.
+```
+let $peliMasLarga := max(
+  for $peliculas in //pelicula/duración
+  return $peliculas
+)
+for $peli in //pelicula
+where $peli/duración = $peliMasLarga
+return (
+  $peli/titulo,
+  $peli/duración,
+  $peli/año
+)
+```
 ### 14. Calcula el precio total de todas las películas en la librería y muestra el resultado.
 ```
 sum(
@@ -153,6 +166,26 @@ return (
 )
 ```
 ### 17. Escribe una consulta para encontrar el género con la película más corta y muestra el título y la duración de esa película.
+```
+let $peliculas := //pelicula
+let $generos := distinct-values($peliculas/género)
+let $peliculaMasCorta :=
+  for $genero in $generos
+  let $peliculasGenero := $peliculas[género = $genero]
+  let $duracionMasCorta := min($peliculasGenero/duración)
+  let $pelicula := $peliculasGenero[duración = $duracionMasCorta]
+  return <generoPelículaMasCorta género="{$genero}">
+           <pelicula>
+             <titulo>{data($pelicula/titulo)}</titulo>
+             <duracion>{data($pelicula/duración)}</duracion>
+           </pelicula>
+         </generoPelículaMasCorta>
+let $generoMasCorto :=
+  for $genero in $peliculaMasCorta
+  where $genero/pelicula/duracion = min($peliculaMasCorta/pelicula/duracion)
+  return $genero
+return $generoMasCorto
+```
 ### 18. Encuentra todas las películas cuyo título contiene la palabra "der" y muestra el título y el director.
 ``` 
 for $pelicula in //pelicula
@@ -164,3 +197,17 @@ return (
 ```
 ### 19. Escribe una consulta para obtener el título y el director de las tres películas más recientes en orden descendente de año de lanzamiento.
 ### 20. Encuentra todos los directores que han dirigido películas en más de un género y muestra el nombre de cada director junto con los géneros en los que ha trabajado.
+```
+let $peliculas := //pelicula
+let $directores := distinct-values($peliculas/director)
+for $director in $directores
+let $generos := distinct-values($peliculas[director = $director]/género)
+where count($generos) > 1
+return <director nombre="{$director}">
+         {
+           for $genero in $generos
+           return <genero>{data($genero)}</genero>
+         }
+       </director>
+
+```
