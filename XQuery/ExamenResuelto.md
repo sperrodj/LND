@@ -196,6 +196,20 @@ return (
 )
 ```
 ### 19. Escribe una consulta para obtener el título y el director de las tres películas más recientes en orden descendente de año de lanzamiento.
+```
+let $peliculas := //pelicula
+let $peliculasOrdenadas := for $pelicula in $peliculas
+                          order by $pelicula/año descending
+                          return $pelicula
+for $i in (1 to 3)
+let $pelicula := $peliculasOrdenadas[$i]
+return
+  <pelicula>
+    <titulo>{data($pelicula/titulo)}</titulo>
+    <director>{data($pelicula/director)}</director>
+  </pelicula>
+
+```
 ### 20. Encuentra todos los directores que han dirigido películas en más de un género y muestra el nombre de cada director junto con los géneros en los que ha trabajado.
 ```
 let $peliculas := //pelicula
