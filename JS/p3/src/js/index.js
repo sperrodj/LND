@@ -12,5 +12,6 @@ function getData() {
     if(nombre.value.length < 6) {
       alert("Introduzca un nombre mayor a 6 caracteres")
     } 
+    /* 2ª Modificación: Comprobar que el usuario ha escrito el correo de forma correcta, si no, salta una alerta */
   })
 }
