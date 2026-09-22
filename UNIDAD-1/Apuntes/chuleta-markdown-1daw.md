@@ -184,16 +184,5 @@ Consulta la [documentación](https://example.com/).
 - Usar encabezados únicamente para cambiar el tamaño del texto.
 - Publicar contraseñas, tokens o datos personales.
 
-## Antes de guardar
-
-- [ ] He previsualizado el documento.
-- [ ] Los encabezados respetan una jerarquía lógica.
-- [ ] Los enlaces funcionan.
-- [ ] Las imágenes tienen texto alternativo.
-- [ ] Los bloques de código están cerrados.
-- [ ] Las tablas se muestran correctamente.
-- [ ] No he publicado información sensible.
-- [ ] El mensaje del commit describe el cambio realizado.
-
 > En GitHub, utiliza la pestaña **Preview** antes de confirmar el commit.
 
