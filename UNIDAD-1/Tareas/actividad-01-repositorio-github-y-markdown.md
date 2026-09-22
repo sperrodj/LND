@@ -118,48 +118,51 @@ No necesitas añadir colaboradores. La profesora podrá acceder mediante el enla
 2. Pulsa sobre `README.md`.
 3. Pulsa el icono del lápiz: **Edit this file**.
 4. Elimina el contenido inicial.
-5. Copia la plantilla del apartado siguiente.
+5. Consulta los requisitos del apartado siguiente antes de empezar a redactar.
 
-## Paso 5. Completa la plantilla
+## Paso 5. Diseña el contenido de tu `README.md`
 
-Sustituye todos los textos entre corchetes. No debe quedar ningún campo sin completar.
+Elabora tu propio documento Markdown. No tienes que reproducir una plantilla: decide cómo organizarlo y redacta el contenido con tus propias palabras.
 
-````markdown
-# Lenguajes de Marcas — 1.º DAW
+Tu `README.md` debe incluir obligatoriamente:
 
-Repositorio de trabajo de **[tu nombre o alias académico]** para el módulo de
-Lenguajes de Marcas y Sistemas de Gestión de Información.
+1. Un **título principal** que identifique el módulo y el curso.
+2. Una breve **presentación del repositorio**, explicando qué contenido guardarás en él.
+3. Un apartado de **presentación personal académica** que incluya:
+   - Tu nombre o un alias apropiado.
+   - El ciclo y el curso que estudias.
+   - Dos o tres intereses relacionados con la tecnología.
+   - Algo que te gustaría aprender durante el módulo o el ciclo.
+4. Un apartado con los **contenidos principales del módulo**. Puedes consultar los temas publicados en el aula virtual.
+5. Una explicación de la **organización del repositorio**, indicando para qué se utilizarán las carpetas `unidad-01` y `practicas`.
+6. Una relación de las **tecnologías o herramientas** que utilizarás durante el curso.
+7. Un pequeño **fragmento de código** relacionado con desarrollo web.
+8. Una sección de **seguimiento** con tareas completadas y pendientes.
+9. Una frase final con el **curso académico 2026-2027**.
 
-> Este repositorio contendrá mis apuntes, ejercicios y prácticas del curso.
+### Recursos de Markdown obligatorios
 
-## Sobre mí
+Para demostrar que conoces la sintaxis básica, el documento debe contener al menos:
 
-- Ciclo: Desarrollo de Aplicaciones Web.
-- Curso: 1.º DAW.
-- Intereses tecnológicos: [escribe dos o tres].
-- Algo que me gustaría aprender: [completa esta frase].
+- Un encabezado de nivel 1 y varios encabezados de nivel 2.
+- Texto en **negrita** y en *cursiva*.
+- Una cita.
+- Una lista sin ordenar.
+- Una lista numerada.
+- Un enlace con texto descriptivo.
+- Una tabla de al menos dos columnas.
+- Código en línea.
+- Un bloque de código con el lenguaje indicado.
+- Una lista de tareas con elementos completados y pendientes.
+- Una línea horizontal.
 
-## Contenidos del módulo
+Puedes consultar la [chuleta de Markdown](chuleta-markdown-1daw.md), pero debes decidir dónde y cómo utilizar cada recurso.
 
-Escribe todos los temas del módulo a modo de lista
+> [!TIP]
+> Hazlo tuyo. Estos requisitos son solamente el punto de partida: puedes añadir una imagen, insignias, una frase que te represente, tus objetivos, enlaces útiles, tecnologías que quieras aprender o cualquier otro apartado que aporte información y personalidad al repositorio.
 
-## Organización del repositorio
-
-| Carpeta | Contenido |
-|---|---|
-| `unidad-01` | Introducción a los lenguajes de marcas |
-| `practicas` | Actividades y entregas |
-
-## Fragmento de ejemplo
-
-```html
-<h1>Hola, DAW</h1>
-<p>Este es mi primer ejemplo documentado en Markdown.</p>
-```
-
-Creado durante el curso **2026-2027**.
-````
-💡 ¡Hazlo tuyo! Esta plantilla es solo el punto de partida: personaliza tu README.md, añade nuevos apartados y utiliza tu creatividad para que refleje tus intereses, lo que quieres aprender y tu forma de trabajar.
+> [!WARNING]
+> No publiques tu dirección, teléfono, contraseñas, tokens ni otros datos personales sensibles.
 
 ## Paso 6. Previsualiza el resultado
 
@@ -171,7 +174,7 @@ Antes de guardar, pulsa **Preview** o **Preview changes** y comprueba:
 - El código HTML aparece en un bloque diferenciado.
 - El enlace de GitHub funciona.
 - Las tareas completadas aparecen marcadas.
-- No quedan textos entre corchetes.
+- Están incluidos todos los contenidos y recursos Markdown obligatorios.
 
 Si algo no se muestra correctamente, regresa a **Edit** y corrígelo.
 
@@ -286,7 +289,7 @@ Comprueba que la invitación a la profesora aparece como pendiente o aceptada.
 - [ ] Incluye una lista numerada y otra no numerada.
 - [ ] Incluye un enlace, una tabla y un bloque de código.
 - [ ] Incluye una lista de tareas.
-- [ ] No quedan textos entre corchetes.
+- [ ] Están incluidos todos los contenidos y recursos Markdown obligatorios.
 - [ ] Existen `unidad-01/README.md` y `practicas/README.md`.
 - [ ] Hay al menos tres commits con mensajes descriptivos.
 - [ ] El enlace entregado funciona correctamente.
@@ -310,11 +313,10 @@ Comprueba que la invitación a la profesora aparece como pendiente o aceptada.
 - No dejar un espacio después de `#`.
 - No dejar una línea en blanco antes de una lista o tabla.
 - Olvidar cerrar un bloque de código.
-- Copiar la plantilla sin sustituir los campos.
+- Limitarse a copiar el trabajo de otra persona sin personalizar el contenido.
 - Crear un repositorio privado y no invitar a la profesora.
 - Utilizar mensajes de commit poco descriptivos.
 - Incluir contraseñas, tokens o datos personales sensibles.
 
 > [!TIP]
 > La documentación no es un adorno. Ayuda a comprender, utilizar, mantener y compartir un proyecto.
-
