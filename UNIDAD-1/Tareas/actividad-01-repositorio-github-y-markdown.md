@@ -34,7 +34,7 @@ Necesitas:
 - Una cuenta de [GitHub](https://github.com/).
 - Acceso al correo asociado a la cuenta.
 - Un navegador web.
-- La [chuleta de Markdown](chuleta-markdown-1daw.md).
+- La [chuleta de Markdown](https://github.com/sperrodj/LND/blob/main/UNIDAD-1/Apuntes/chuleta-markdown-1daw.md).
 - El usuario de GitHub de la profesora si decides utilizar un repositorio privado.
 
 No necesitas instalar Git ni utilizar la terminal. Esta primera actividad se realiza desde la web de GitHub.
@@ -156,7 +156,7 @@ Para demostrar que conoces la sintaxis básica, el documento debe contener al me
 - Una lista de tareas con elementos completados y pendientes.
 - Una línea horizontal.
 
-Puedes consultar la [chuleta de Markdown](chuleta-markdown-1daw.md), pero debes decidir dónde y cómo utilizar cada recurso.
+Puedes consultar la [chuleta de Markdown]([chuleta-markdown-1daw.md](https://github.com/sperrodj/LND/blob/main/UNIDAD-1/Apuntes/chuleta-markdown-1daw.md)), pero debes decidir dónde y cómo utilizar cada recurso.
 
 > [!TIP]
 > Hazlo tuyo. Estos requisitos son solamente el punto de partida: puedes añadir una imagen, insignias, una frase que te represente, tus objetivos, enlaces útiles, tecnologías que quieras aprender o cualquier otro apartado que aporte información y personalidad al repositorio.
