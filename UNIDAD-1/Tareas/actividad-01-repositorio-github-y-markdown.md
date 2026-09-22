@@ -141,11 +141,7 @@ Lenguajes de Marcas y Sistemas de Gestión de Información.
 
 ## Contenidos del módulo
 
-1. Introducción a los lenguajes de marcas.
-2. XML y validación de documentos.
-3. Transformación y consulta de información.
-4. Sindicación de contenidos.
-5. HTML, CSS y JavaScript.
+Escribe todos los temas del módulo a modo de lista
 
 ## Organización del repositorio
 
@@ -154,13 +150,6 @@ Lenguajes de Marcas y Sistemas de Gestión de Información.
 | `unidad-01` | Introducción a los lenguajes de marcas |
 | `practicas` | Actividades y entregas |
 
-## Tecnologías y herramientas
-
-- [GitHub](https://github.com/)
-- Markdown
-- Visual Studio Code
-- Navegador web
-
 ## Fragmento de ejemplo
 
 ```html
@@ -168,17 +157,9 @@ Lenguajes de Marcas y Sistemas de Gestión de Información.
 <p>Este es mi primer ejemplo documentado en Markdown.</p>
 ```
 
-## Seguimiento
-
-- [x] Repositorio creado.
-- [x] Archivo `README.md` preparado.
-- [ ] Primera unidad completada.
-- [ ] Primera práctica entregada.
-
----
-
 Creado durante el curso **2026-2027**.
 ````
+💡 ¡Hazlo tuyo! Esta plantilla es solo el punto de partida: personaliza tu README.md, añade nuevos apartados y utiliza tu creatividad para que refleje tus intereses, lo que quieres aprender y tu forma de trabajar.
 
 ## Paso 6. Previsualiza el resultado
 
