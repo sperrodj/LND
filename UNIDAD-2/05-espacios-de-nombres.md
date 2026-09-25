@@ -1,6 +1,6 @@
 # Bloque 5. Espacios de nombres XML
 
-[← Buena formación](04-documentos-bien-formados.md) · [Índice](README.md) · [Siguiente: actividades →](06-actividades-y-repaso.md)
+[← Buena formación](04-documentos-bien-formados.md) 
 
 ## Objetivos del bloque
 
@@ -258,4 +258,4 @@ Corrige y explica este documento:
 
 ---
 
-[← Buena formación](04-documentos-bien-formados.md) · [Índice](README.md) · [Siguiente: actividades →](06-actividades-y-repaso.md)
+[← Buena formación](04-documentos-bien-formados.md)
