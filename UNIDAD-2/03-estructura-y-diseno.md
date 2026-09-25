@@ -1,6 +1,6 @@
 # Bloque 3. Estructura jerárquica y diseño
 
-[← Sintaxis](02-sintaxis-y-componentes.md) · [Índice](README.md) · [Siguiente: buena formación →](04-documentos-bien-formados.md)
+[← Sintaxis](02-sintaxis-y-componentes.md) · [Siguiente: buena formación →](04-documentos-bien-formados.md)
 
 ## Objetivos del bloque
 
@@ -287,4 +287,4 @@ Primero dibuja el árbol y después escribe el XML.
 
 ---
 
-[← Sintaxis](02-sintaxis-y-componentes.md) · [Índice](README.md) · [Siguiente: buena formación →](04-documentos-bien-formados.md)
+[← Sintaxis](02-sintaxis-y-componentes.md) · [Siguiente: buena formación →](04-documentos-bien-formados.md)
