@@ -1,6 +1,6 @@
 # Bloque 1. Fundamentos de XML
 
-[← Índice](README.md) · [Siguiente: sintaxis y componentes →](02-sintaxis-y-componentes.md)
+[Siguiente: sintaxis y componentes →](02-sintaxis-y-componentes.md)
 
 ## Objetivos del bloque
 
@@ -225,14 +225,6 @@ Durante el módulo aparecerán varias tecnologías relacionadas:
 
 En esta unidad solo necesitamos conocer su propósito general.
 
-## Comprueba tu aprendizaje
-
-1. Explica por qué XML se considera extensible.
-2. Indica tres aplicaciones actuales de XML.
-3. ¿Por qué no debemos considerar XML una base de datos?
-4. Señala una situación adecuada para XML, otra para JSON y otra para CSV.
-5. Explica dos diferencias entre HTML y XML.
-
 ---
 
-[← Índice](README.md) · [Siguiente: sintaxis y componentes →](02-sintaxis-y-componentes.md)
+[Siguiente: sintaxis y componentes →](02-sintaxis-y-componentes.md)
