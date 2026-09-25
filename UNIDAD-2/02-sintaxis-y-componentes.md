@@ -1,6 +1,6 @@
 # Bloque 2. Sintaxis y componentes de XML
 
-[← Fundamentos](01-fundamentos-xml.md) · [Índice](README.md) · [Siguiente: estructura y diseño →](03-estructura-y-diseno.md)
+[← Fundamentos](01-fundamentos-xml.md) · [Siguiente: estructura y diseño →](03-estructura-y-diseno.md)
 
 ## Objetivos del bloque
 
@@ -304,4 +304,4 @@ Analiza este fragmento:
 
 ---
 
-[← Fundamentos](01-fundamentos-xml.md) · [Índice](README.md) · [Siguiente: estructura y diseño →](03-estructura-y-diseno.md)
+[← Fundamentos](01-fundamentos-xml.md) [Siguiente: estructura y diseño →](03-estructura-y-diseno.md)
