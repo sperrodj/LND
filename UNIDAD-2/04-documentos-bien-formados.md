@@ -1,6 +1,6 @@
 # Bloque 4. Documentos XML bien formados
 
-[← Estructura](03-estructura-y-diseno.md) · [Índice](README.md) · [Siguiente: espacios de nombres →](05-espacios-de-nombres.md)
+[← Estructura](03-estructura-y-diseno.md) · [Siguiente: espacios de nombres →](05-espacios-de-nombres.md)
 
 ## Objetivos del bloque
 
@@ -305,19 +305,4 @@ Localiza y corrige todos los errores:
 
 </details>
 
-## Lista rápida de buena formación
-
-- [ ] La declaración, si existe, está en la primera posición.
-- [ ] Existe exactamente un elemento raíz.
-- [ ] Todas las etiquetas están cerradas.
-- [ ] Las mayúsculas coinciden.
-- [ ] El anidamiento es correcto.
-- [ ] Los atributos utilizan comillas.
-- [ ] No existen atributos duplicados.
-- [ ] Los nombres son válidos.
-- [ ] Los caracteres reservados están escapados.
-- [ ] Los comentarios cumplen la sintaxis.
-
----
-
-[← Estructura](03-estructura-y-diseno.md) · [Índice](README.md) · [Siguiente: espacios de nombres →](05-espacios-de-nombres.md)
+[← Estructura](03-estructura-y-diseno.md) · [Siguiente: espacios de nombres →](05-espacios-de-nombres.md)
