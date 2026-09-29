@@ -1,29 +1,5 @@
 # Sesión autónoma. Introducción práctica a XML
 
-[← Volver al índice de la unidad](README.md)
-
-> **Duración:** 2 sesiones de 55 minutos  
-> **Modalidad:** trabajo individual y autónomo  
-> **Herramientas:** navegador, Visual Studio Code, Git y GitHub  
-> **Producto final:** documentación en Markdown y cuatro archivos XML
-
-## Indicaciones para el profesor o profesora de guardia
-
-El alumnado dispone en este documento de todas las explicaciones e instrucciones necesarias. No es necesario impartir contenido teórico.
-
-Al comienzo de la sesión deberá recordarse:
-
-1. El trabajo es individual.
-2. Cada estudiante debe trabajar en su repositorio de Lenguajes de Marcas.
-3. Deben seguir las fases en orden y respetar los tiempos orientativos.
-4. Al terminar, todo debe estar subido a GitHub.
-
-Alrededor del minuto 55, conviene comprobar que han llegado, como mínimo, a la **fase 4**. Durante los últimos diez minutos deben realizar el commit, subir los cambios y revisar el enlace.
-
-Si alguien tiene un problema técnico con la extensión de XML, puede continuar utilizando el resaltado básico de VS Code y el navegador. El problema deberá quedar anotado en su `README.md`.
-
----
-
 # Instrucciones para el alumnado
 
 ## 1. ¿Qué vas a aprender?
@@ -279,7 +255,7 @@ El elemento completo incluye la etiqueta de apertura, el contenido y la etiqueta
 
 ## 7. Modificación guiada — 15 minutos
 
-Abre `catalogo-ampliado.xml` y crea un catálogo con varios videojuegos:
+Crea `catalogo-ampliado.xml` y copia el siguiente catálogo con varios videojuegos:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -308,11 +284,11 @@ Abre `catalogo-ampliado.xml` y crea un catálogo con varios videojuegos:
 
 ### Modificaciones obligatorias
 
-Sin copiar otro ejemplo, añade un tercer videojuego que incluya:
+Añade al catálogo un total de 10 videojuegos que incluyan:
 
 - Un identificador diferente.
 - Título y desarrolladora.
-- Al menos tres plataformas.
+- Plataformas.
 - Precio y moneda.
 - Un elemento opcional `descripcion`.
 - Un comentario XML útil antes del tercer videojuego.
@@ -410,11 +386,7 @@ Ha llegado el momento de crear un documento sin plantilla completa.
 
 ### Elige una temática
 
-- Marvel.
-- League of Legends.
-- Jujutsu Kaisen.
-- Fútbol.
-- Otra temática aprobada por la profesora en sesiones posteriores.
+Selecciona una temática que te guste.
 
 ### Enunciado
 
@@ -536,7 +508,7 @@ Comprueba en GitHub que puedes abrir:
 https://github.com/tu-usuario/lenguajes-de-marcas/tree/main/unidad-02/sesion-01-introduccion-xml
 ```
 
-Si el aula virtual solicita una entrega, pega ese enlace.
+Sube al aula virtual el enlace.
 
 ## 11. Evidencias que deben existir al finalizar
 
@@ -564,7 +536,3 @@ Si el aula virtual solicita una entrega, pega ese enlace.
 
 > [!TIP]
 > Si te bloqueas, vuelve al último archivo que funcionaba, compara las etiquetas de apertura y cierre y corrige siempre el primer error antes de continuar con los siguientes.
-
----
-
-[← Volver al índice de la unidad](README.md)
