@@ -203,16 +203,7 @@ Para cada requisito, indica si puede comprobarse adecuadamente con DTD, si neces
 
 ## 7.12. Reto final de la unidad
 
-Recupera la carta XML del guachinche y crea:
-
-- Una DTD que valide su estructura.
-- Un XSD que añada tipos y restricciones más precisas.
-- Un XML válido mínimo.
-- Un XML válido completo.
-- Tres XML inválidos, cada uno con un error diferente.
-- Una tabla comparando qué errores detecta DTD y cuáles detecta XSD.
-
-La solución debe demostrar no solo que el caso correcto funciona, sino que las reglas rechazan casos incorrectos.
+Enlace al enunciado de la tarea evaluable
 
 ## 7.13. Glosario
 
