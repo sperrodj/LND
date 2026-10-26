@@ -203,7 +203,7 @@ Para cada requisito, indica si puede comprobarse adecuadamente con DTD, si neces
 
 ## 7.12. Reto final de la unidad
 
-Enlace al enunciado de la tarea evaluable
+[Enlace al enunciado de la tarea evaluable] (https://github.com/sperrodj/LND/blob/main/UNIDAD-3/Tareas/actividad01-cine.md)
 
 ## 7.13. Glosario
 
