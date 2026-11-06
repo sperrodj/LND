@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo actualizado="2026-11-06">
+  <videojuego id="V001" disponible="true">
+    <titulo>Hollow Knight</titulo>
+    <desarrolladora pais="Australia">Team Cherry</desarrolladora>
+    <generos>
+      <genero>Metroidvania</genero>
+      <genero>Acción</genero>
+    </generos>
+    <plataformas>
+      <plataforma>PC</plataforma>
+      <plataforma>Switch</plataforma>
+    </plataformas>
+    <precio moneda="EUR">14.99</precio>
+    <puntuacion>9.2</puntuacion>
+  </videojuego>
+  <videojuego id="V002" disponible="true">
+    <titulo>League of Legends</titulo>
+    <desarrolladora pais="Estados Unidos">Riot Games</desarrolladora>
+    <generos>
+      <genero>MOBA</genero>
+      <genero>Estrategia</genero>
+    </generos>
+    <plataformas>
+      <plataforma>PC</plataforma>
+    </plataformas>
+    <precio moneda="EUR">0</precio>
+    <puntuacion>8.1</puntuacion>
+  </videojuego>
+  <videojuego id="V003" disponible="false">
+    <titulo>Marvel's Spider-Man 2</titulo>
+    <desarrolladora pais="Estados Unidos">Insomniac Games</desarrolladora>
+    <generos>
+      <genero>Acción</genero>
+      <genero>Aventura</genero>
+    </generos>
+    <plataformas>
+      <plataforma>PS5</plataforma>
+      <plataforma>PC</plataforma>
+    </plataformas>
+    <precio moneda="EUR">59.99</precio>
+    <puntuacion>8.8</puntuacion>
+  </videojuego>
+  <videojuego id="V004" disponible="true">
+    <titulo>EA Sports FC 27</titulo>
+    <desarrolladora pais="Canadá">EA Sports</desarrolladora>
+    <generos>
+      <genero>Deportes</genero>
+    </generos>
+    <plataformas>
+      <plataforma>PC</plataforma>
+      <plataforma>PS5</plataforma>
+      <plataforma>Xbox Series</plataforma>
+    </plataformas>
+    <precio moneda="EUR">79.99</precio>
+    <puntuacion>7.4</puntuacion>
+  </videojuego>
+  <videojuego id="V005" disponible="true">
+    <titulo>Jujutsu Kaisen Cursed Clash</titulo>
+    <desarrolladora pais="Japón">Byking</desarrolladora>
+    <generos>
+      <genero>Lucha</genero>
+      <genero>Anime</genero>
+    </generos>
+    <plataformas>
+      <plataforma>PC</plataforma>
+      <plataforma>PS5</plataforma>
+      <plataforma>Switch</plataforma>
+    </plataformas>
+    <precio moneda="EUR">49.99</precio>
+    <puntuacion>6.2</puntuacion>
+    <observaciones>Basado en el manga y el anime.</observaciones>
+  </videojuego>
+</catalogo>
