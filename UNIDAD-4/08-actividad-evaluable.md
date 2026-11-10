@@ -132,25 +132,15 @@ El README debe incluir:
 
 1. Título de la actividad.
 2. Explicación breve del catálogo y de los géneros elegidos.
-3. Fuentes utilizadas para consultar los datos de los libros.
-4. Árbol simplificado de la estructura XML.
-5. Tabla de decisiones de diseño.
-6. Código completo de `biblioteca.xml` dentro de un bloque `xml`.
-7. Las veinte consultas XPath numeradas.
-8. Objetivo de cada consulta.
-9. Expresión XPath utilizada.
-10. Resultado obtenido y una breve interpretación.
-11. Captura de la comprobación inicial con `xmllint`.
-12. Un mínimo de tres capturas de consultas XPath ejecutadas.
-13. Apartado de problemas encontrados y soluciones aplicadas.
-14. Conclusión personal sobre XPath.
+3. Árbol simplificado de la estructura XML.
+4. Enlace al código completo de `biblioteca.xml`.
+5. Las veinte consultas XPath numeradas junto con la captura del resultado obtenido y en caso de que no se pueda mostrar el contenido total del resultado de la consulta, incluirlo en un bloque de código. 
+6. Apartado de problemas encontrados y soluciones aplicadas.
 
 Documenta cada consulta con una estructura similar:
 
 ````markdown
 ### Consulta 7. Libros disponibles
-
-**Objetivo:** seleccionar los títulos de los libros disponibles.
 
 **XPath:**
 
@@ -158,21 +148,10 @@ Documenta cada consulta con una estructura similar:
 //libro[@disponible='true']/titulo
 ```
 
-**Resultado:** la consulta devuelve los títulos de los libros cuyo atributo `disponible` contiene el valor `true`.
+**Resultado:** fragmento de código devuelto o captura con el resultado.
 ````
 
-## 8. Capturas obligatorias
-
-Las capturas deben mostrar claramente el comando, la expresión XPath, el resultado y el nombre del archivo utilizado.
-
-No es necesario capturar las veinte consultas. Incluye, como mínimo:
-
-- Comprobación del XML con `xmllint --noout`.
-- Una consulta con varios predicados.
-- La consulta del precio medio.
-- Una consulta que utilice un eje.
-
-## 9. Rúbrica de evaluación
+## 8. Rúbrica de evaluación
 
 | Criterio | Peso |
 |---|---:|
@@ -183,7 +162,7 @@ No es necesario capturar las veinte consultas. Incluye, como mínimo:
 | Ejes de navegación | 15 % |
 | README, evidencias, organización y expresión escrita | 10 % |
 
-## 10. Condiciones importantes
+## 9. Condiciones importantes
 
 - Un XML que no esté bien formado no permite ejecutar correctamente XPath y afectará de forma importante a la calificación.
 - Las consultas deben estar ejecutadas y comprobadas; no basta con escribirlas.
@@ -194,7 +173,7 @@ No es necesario capturar las veinte consultas. Incluye, como mínimo:
 - No es necesario crear un DTD ni un XSD para esta actividad.
 - No publiques datos personales ni información sensible.
 
-## 11. Lista de comprobación
+## 10. Lista de comprobación
 
 - [ ] Mi XML tiene un único elemento raíz llamado `<biblioteca>`.
 - [ ] He incluido al menos diez libros.
