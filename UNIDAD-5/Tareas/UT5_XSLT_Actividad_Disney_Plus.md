@@ -1,8 +1,6 @@
 # UT5 · Actividad evaluable de XSLT
 ## Una noche de cine en Disney+
 
-**Lenguajes de Marcas y Sistemas de Gestión de Información · 1.º DAW**
-
 Crea desde cero una cartelera web con tu propia selección de películas de Disney+. Tú eliges las películas, las categorías, la estructura del XML y el diseño de la página. El catálogo se guarda en XML y la hoja XSLT lo transforma en una página HTML con tus estilos CSS.
 
 ## 1. Crea tu catálogo XML
