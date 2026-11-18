@@ -30,15 +30,5 @@ Al terminar la unidad, el alumnado podrá:
 7. [Depuración, validación y errores frecuentes](07-depuracion-y-errores.md)
 8. [Práctica guiada: catálogo de un vivero](08-practica-guiada.md)
 
-## Secuenciación orientativa
-
-- **Sesión 1:** fundamentos, asociación y primera transformación.
-- **Sesión 2:** XPath, contexto, valores y atributos.
-- **Sesión 3:** recorridos, filtros y ordenación.
-- **Sesión 4:** condiciones, cálculos y variables.
-- **Sesión 5:** plantillas y parámetros.
-- **Sesión 6:** formatos de salida y depuración.
-- **Sesiones 7 y 8:** práctica guiada y revisión.
-
 Los ejemplos utilizan **XSLT 1.0**, compatible con `xsltproc` y suficiente para trabajar los fundamentos del lenguaje.
 
