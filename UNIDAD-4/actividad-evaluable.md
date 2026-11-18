@@ -1,4 +1,4 @@
-# 8. Actividad evaluable: catálogo de libros actuales con XPath
+Actividad: catálogo de libros actuales con XPath
 
 ## Descripción
 
