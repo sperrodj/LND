@@ -34,20 +34,6 @@ Al terminar la unidad, el alumnado podrá:
 8. [Diseño adaptable, accesibilidad y depuración](08-responsive-accesibilidad-depuracion.md)
 9. [Práctica guiada: festival de cine al aire libre](09-practica-guiada.md)
 
-## Secuenciación orientativa
-
-- **Sesión 1:** sintaxis, integración y primeras reglas.
-- **Sesión 2:** selectores, cascada y especificidad.
-- **Sesión 3:** tipografía, colores, unidades y fondos.
-- **Sesión 4:** modelo de cajas y posicionamiento.
-- **Sesión 5:** Flexbox.
-- **Sesión 6:** Grid.
-- **Sesión 7:** componentes, estados y formularios.
-- **Sesión 8:** responsive, accesibilidad y depuración.
-- **Sesiones 9 y 10:** práctica guiada y revisión.
-
-Los ejemplos se apoyan en HTML semántico. CSS puede modificar la presentación, pero no debe sustituir una estructura HTML correcta.
-
 ## Referencias técnicas
 
 - [CSS Snapshot 2025 — W3C](https://www.w3.org/TR/css-2025/)
