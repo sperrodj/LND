@@ -1,4 +1,4 @@
-# 7.12. Reto final de la unidad: Gestión de un cine
+# Actividad. Gestión de un cine
 
 ## Objetivo de la actividad
 
