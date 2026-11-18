@@ -1,4 +1,4 @@
-# Sesión autónoma. Introducción práctica a XML
+# Actividad. Introducción práctica a XML
 
 # Instrucciones para el alumnado
 
