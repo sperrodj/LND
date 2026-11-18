@@ -24,15 +24,6 @@ Al terminar la unidad, el alumnado podrá:
 6. [Accesibilidad, metadatos y validación](06-accesibilidad-metadatos-validacion.md)
 7. [Práctica guiada: web de una protectora](07-practica-guiada.md)
 
-## Organización recomendada
-
-- **Sesión 1:** introducción, estructura y texto.
-- **Sesión 2:** enlaces, imágenes y multimedia.
-- **Sesión 3:** semántica, listas y tablas.
-- **Sesiones 4 y 5:** formularios.
-- **Sesión 6:** accesibilidad, metadatos y validación.
-- **Sesiones 7 y 8:** práctica guiada y revisión.
-
 > HTML indica qué significa cada parte del contenido. CSS decidirá cómo se presenta y JavaScript cómo se comporta.
 
 ---
